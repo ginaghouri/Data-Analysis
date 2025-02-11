@@ -37,6 +37,9 @@ Highest Sale Price: $50000, Lowest Sale Price: $5000
 
 🔹 Key Optimisations:
 
+
+ https://convertio.co/txt-csv/ reduced and converted large cars_prices cvs file
+ 
 ✅ Merged duplicate logic
 ·Created get_sales() to extract numerical sales values (avoids repetition).
 ·Simplified sales calculations using built-in Pandas and Python methods.
